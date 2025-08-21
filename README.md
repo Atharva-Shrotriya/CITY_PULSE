@@ -1,6 +1,4 @@
-Absolutely, Atharv! Here's the updated and polished version of your **City Pulse** project description, now including instructions for creating a `.env` file to securely manage API keys. This version keeps things professional, clear, and developer-friendly:
 
----
 
 ## 🌆 City Pulse: Your Smart Window into Urban Life
 
@@ -84,3 +82,4 @@ streamlit run app.py
 ---
 
 Want help adding user authentication, optimizing performance, or deploying this to the cloud? I’ve got your back.
+
